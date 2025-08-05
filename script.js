@@ -1,5 +1,5 @@
 // Canvas setup
-const canvas = document.getElementById("myCanvas");
+const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
 
 // Ball properties
